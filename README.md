@@ -38,7 +38,7 @@
       <details>
         <summary>🚗 
           <a href="https://github.com/issaniang5/Location-de-Voitures-MERN" target="_blank">
-            <strong>Car Rental MERN</strong>
+            <strong>location-picker-app</strong>
           </a>
         </summary>
         <samp>
@@ -48,7 +48,7 @@
       <details>
         <summary>🌤️ 
           <a href="https://github.com/issaniang5/Application-meteo-MERN" target="_blank">
-            <strong>Weather Application MERN</strong>
+            <strong>investment-calculator</strong>
           </a>
         </summary>
         <samp>
@@ -58,7 +58,7 @@
       <details>
         <summary>🎓 
           <a href="https://github.com/issaniang5/Application-de-Gestion-des-Etudiants" target="_blank">
-            <strong>Student Management Application</strong>
+            <strong>mern-workout-app</strong>
           </a>
         </summary>
         <samp>
