@@ -6,9 +6,9 @@
 
 <p align='center' >
 
- <h4>Hi 👋, </h4>
+ <h4>About me </h4>
 
--  I'm Saad Bin Wasi, 3+ years of experience crafting sleek front-ends, dynamic MERN apps, and mobile-friendly designs with a focus on React.js and modern frameworks like Tailwind & MaterialUI.
+- 3+ years of experience crafting sleek front-ends, dynamic MERN apps, and mobile-friendly designs with a focus on React.js and modern frameworks like Tailwind & MaterialUI.
 
 - 🤖 Passionate about chatbots, innovative tech, and creating impactful digital solutions.
 
