@@ -205,4 +205,4 @@ My name is Issa, and since a young age, I have always been fascinated by the wor
 <p align="center">
   <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="30" alt="Email logo" /></a>
   <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" /></a>
-  <a href="
+</p>
