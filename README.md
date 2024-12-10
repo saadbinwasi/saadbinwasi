@@ -21,6 +21,25 @@
 <h3 align="center">🚀 Projects</h3>
 
 <div align="left">
+  <h4>💻 <strong>Artificial Intelligence Projects</strong></h4>
+  <h6 align="left"> These projects encompass both front-end and back-end development to create complete and functional web applications. </h6>
+  <div align="left">
+    <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
+      <details>
+        <summary>🍕 
+          <a href="https://github.com/issaniang5/Application-Livraison-De-Nourriture" target="_blank">
+            <strong>the-bot-jenny</strong>
+          </a>
+        </summary>
+        <samp>
+          A full-stack food delivery app that allows users to order meals online. This project uses React for the front end and Node.js/Express with MongoDB for the back end.
+        </samp>
+      </details>
+    </ul>
+  </div>
+</div>
+
+<div align="left">
   <h4>💻 <strong>Full Stack Projects</strong></h4>
   <h6 align="left"> These projects encompass both front-end and back-end development to create complete and functional web applications. </h6>
   <div align="left">
