@@ -1,14 +1,12 @@
 <div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" />
+  <img height="200" src="" />
 </div>
-
-<h1 align="center">Hello 👋,</h1>
 
 <p align="center">
   
 <h3 align="left">👨‍💻 About Me</h3>
 
-My name is Issa, and since a young age, I have always been fascinated by the world of technology. I have had the opportunity to work in diverse cultural and professional environments (France, Senegal, USA, England, South Africa, Guyana). My international experience has helped me develop adaptability and an open mind.
+
 
 </p>
 
@@ -200,11 +198,3 @@ My name is Issa, and since a young age, I have always been fascinated by the wor
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3 logo" />
 </div>
-
-
-
-<h3 align="center">📫 How to reach me:</h3>
-<p align="center">
-  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="30" alt="Email logo" /></a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" /></a>
-</p>
