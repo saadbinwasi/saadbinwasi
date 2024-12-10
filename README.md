@@ -3,10 +3,8 @@
 </div>
 
 <p align='center' >
-  
-<h3 align="left">👨‍💻 About Me</h3>
 
-<p align='center'> Web Developer | MERN Stack Enthusiast | Future Tech Builder </p>
+<h1 align='center'> Web Developer | MERN Stack Enthusiast | Future Tech Builder </h1>
 
 
 - 👨‍💻 3+ years of experience crafting sleek front-ends, dynamic MERN apps, and mobile-friendly designs with a focus on React.js and modern frameworks like Tailwind & MaterialUI.
