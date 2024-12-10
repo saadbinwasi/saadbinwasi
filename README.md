@@ -96,5 +96,4 @@
    <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="40" alt="CSS3 logo" />
 
-  https://cdn.worldvectorlogo.com/logos/react-native-1.svg
 </div>
