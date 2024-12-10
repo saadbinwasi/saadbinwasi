@@ -39,7 +39,7 @@
   </div>
 </div>
 
-<img height="12"/>
+<img height="5"/>
 
 <div align="left">
   <h4>💻 <strong>Full Stack Projects</strong></h4>
