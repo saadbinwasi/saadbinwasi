@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1733834598~exp=1733838198~hmac=ec02a2a9594a3636729d54f7a1ae8229e9673119728d6b2efe69c707f5aeddfd&w=1480" />
+  <img width='800' height="200" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1733834598~exp=1733838198~hmac=ec02a2a9594a3636729d54f7a1ae8229e9673119728d6b2efe69c707f5aeddfd&w=1480" />
 </div>
 
 <p align='center' >
