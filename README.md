@@ -10,6 +10,7 @@
 
 </p>
 
+<h3 align="center">🚀 Projects</h3>
 
 <div align="left">
   <h4>💻 <strong>Full Stack Projects</strong></h4>
