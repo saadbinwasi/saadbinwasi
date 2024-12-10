@@ -27,7 +27,7 @@
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
         <summary>🤖
-          <a href="https://github.com/issaniang5/Application-Livraison-De-Nourriture](https://github.com/saadbinwasi/the-bot-jenny" target="_blank">
+          <a href="https://github.com/saadbinwasi/the-bot-jenny" target="_blank">
             <strong>The Bot Jenny</strong>
           </a>
         </summary>
@@ -48,7 +48,7 @@
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
         <summary>🌍
-          <a href="https://github.com/issaniang5/Application-Livraison-De-Nourriture" target="_blank">
+          <a href="https://github.com/saadbinwasi/TravelApp" target="_blank">
             <strong>Travel App</strong>
           </a>
         </summary>
@@ -58,7 +58,7 @@
       </details>
       <details>
         <summary> 📍
-          <a href="https://github.com/issaniang5/Location-de-Voitures-MERN" target="_blank">
+          <a href="https://github.com/saadbinwasi/location-picker-app-" target="_blank">
             <strong>location-picker-app</strong>
           </a>
         </summary>
@@ -68,7 +68,7 @@
       </details>
       <details>
         <summary>💸
-          <a href="https://github.com/issaniang5/Application-meteo-MERN" target="_blank">
+          <a href="https://github.com/saadbinwasi/investment-calculator-" target="_blank">
             <strong>investment-calculator</strong>
           </a>
         </summary>
@@ -78,7 +78,7 @@
       </details>
       <details>
         <summary>🏋️‍♂️
-          <a href="https://github.com/issaniang5/Application-de-Gestion-des-Etudiants" target="_blank">
+          <a href="https://github.com/saadbinwasi/mern-workout-app" target="_blank">
             <strong>mern-workout-app</strong>
           </a>
         </summary>
