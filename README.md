@@ -26,9 +26,9 @@
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
-        <summary>🍕 
+        <summary>🤖
           <a href="https://github.com/issaniang5/Application-Livraison-De-Nourriture" target="_blank">
-            <strong>the-bot-jenny</strong>
+            <strong>The Bot Jenny</strong>
           </a>
         </summary>
         <samp>
