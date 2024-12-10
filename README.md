@@ -6,7 +6,7 @@
   
 <h3 align="left">👨‍💻 About Me</h3>
 
-<p align='center'> 🚀 Web Developer | MERN Stack Enthusiast | Future Tech Builder </p>
+<p align='center'> Web Developer | MERN Stack Enthusiast | Future Tech Builder </p>
 
 - 👨‍💻 3+ years of experience crafting sleek front-ends, dynamic MERN apps, and mobile-friendly designs with a focus on React.js and modern frameworks like Tailwind & MaterialUI.
 
