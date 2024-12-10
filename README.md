@@ -14,9 +14,9 @@
 
 - 🌍 Love collaborating globally and delivering top-notch results. Let’s build something amazing together!
 
-
-
 </p>
+
+<hr/>
 
 <h3 align="center">🚀 Projects</h3>
 
