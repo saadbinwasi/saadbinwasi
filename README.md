@@ -1,12 +1,13 @@
+<div align="right">
+  <img height="200" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1733834598~exp=1733838198~hmac=ec02a2a9594a3636729d54f7a1ae8229e9673119728d6b2efe69c707f5aeddfd&w=1480" />
+</div>
 
-
-<div >
+<p align='center' >
   
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align='center'> Web Developer | MERN Stack Enthusiast | Future Tech Builder </p>
 
-<div align='left'>
 
 - 👨‍💻 3+ years of experience crafting sleek front-ends, dynamic MERN apps, and mobile-friendly designs with a focus on React.js and modern frameworks like Tailwind & MaterialUI.
 
@@ -14,13 +15,9 @@
 
 - 🌍 Love collaborating globally and delivering top-notch results. Let’s build something amazing together!
 
-</div>
 
-<div align="right">
-  <img height="200" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1733834598~exp=1733838198~hmac=ec02a2a9594a3636729d54f7a1ae8229e9673119728d6b2efe69c707f5aeddfd&w=1480" />
-</div>
 
-</div>
+</p>
 
 <h3 align="center">🚀 Projects</h3>
 
