@@ -16,15 +16,7 @@
 
 </p>
 
-<br>
-<p align="center">
-  <a >
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=saadbinwasi&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadbinwasi&amp;theme=gruvbox&amp;hide_border=true">
-  </a>
-</p>
-<br>
-<p><a><img src="https://activity-graph.herokuapp.com/graph?username=abhigyantrips&amp;custom_title=saadbinwasi%20Trips's%20Contribution%20Graph&amp;theme=gruvbox&amp;bg_color=282828&amp;hide_border=true&amp;line=d1a01f&amp;point=c58545" alt="saadbinwasi Trips' Activity Graph"></a></p>
+<p aligh='center'><a><img src="https://activity-graph.herokuapp.com/graph?username=abhigyantrips&amp;custom_title=saadbinwasi%20Trips's%20Contribution%20Graph&amp;theme=gruvbox&amp;bg_color=282828&amp;hide_border=true&amp;line=d1a01f&amp;point=c58545" alt="saadbinwasi Trips' Activity Graph"></a></p>
 
 <hr/>
 
