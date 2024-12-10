@@ -22,7 +22,7 @@
 
 <div align="left">
   <h4>💻 <strong>Artificial Intelligence Projects</strong></h4>
-  <h6 align="left"> These projects encompass both front-end and back-end development to create complete and functional web applications. </h6>
+  <h6 align="left"> Artificial Intelligence Projects focus on building systems that use AI techniques like machine learning, NLP, and computer vision to automate tasks, recognize patterns, and make decisions. </h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
@@ -32,7 +32,7 @@
           </a>
         </summary>
         <samp>
-          A full-stack food delivery app that allows users to order meals online. This project uses React for the front end and Node.js/Express with MongoDB for the back end.
+         The Bot Jenny is a terminal-based AI assistant that responds to voice commands. It can perform tasks like opening websites, launching apps, or searching YouTube directly from the terminal.
         </samp>
       </details>
     </ul>
@@ -47,43 +47,43 @@
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
-        <summary>🍕 
+        <summary>🌍
           <a href="https://github.com/issaniang5/Application-Livraison-De-Nourriture" target="_blank">
             <strong>Travel App</strong>
           </a>
         </summary>
         <samp>
-          A full-stack food delivery app that allows users to order meals online. This project uses React for the front end and Node.js/Express with MongoDB for the back end.
+        A full-stack web application that helps users explore destinations, book flights, and plan their travel itinerary.
         </samp>
       </details>
       <details>
-        <summary>🚗 
+        <summary> 📍
           <a href="https://github.com/issaniang5/Location-de-Voitures-MERN" target="_blank">
             <strong>location-picker-app</strong>
           </a>
         </summary>
         <samp>
-          A MERN stack application for car rentals, enabling users to book cars online. This project uses React for the front end and Node.js/Express with MongoDB for the back end.
+          A web app that allows users to easily select and save their preferred locations on a map for various purposes.
         </samp>
       </details>
       <details>
-        <summary>🌤️ 
+        <summary>💸
           <a href="https://github.com/issaniang5/Application-meteo-MERN" target="_blank">
             <strong>investment-calculator</strong>
           </a>
         </summary>
         <samp>
-          A full-stack application that provides real-time weather updates based on user location. This project uses React for the front end and Node.js/Express with the OpenWeather API for the back end.
+         A tool that helps users calculate potential returns on their investments by inputting different variables like amount, rate of return, and time.
         </samp>
       </details>
       <details>
-        <summary>🎓 
+        <summary>🏋️‍♂️
           <a href="https://github.com/issaniang5/Application-de-Gestion-des-Etudiants" target="_blank">
             <strong>mern-workout-app</strong>
           </a>
         </summary>
         <samp>
-          A full-stack student management application for tracking academic and personal information of students. This project uses React for the front end and Node.js/Express with MongoDB for the back end.
+         A fitness application built with the MERN stack that allows users to track their workouts, set goals, and monitor progress.
         </samp>
       </details>
     </ul>
