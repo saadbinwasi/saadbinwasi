@@ -22,7 +22,7 @@
 
 <div align="left">
   <h4>💻 <strong>Artificial Intelligence Projects</strong></h4>
-  <h6 align="left"> Artificial Intelligence Projects focus on building systems that use AI techniques like machine learning, NLP, and computer vision to automate tasks, recognize patterns, and make decisions. </h6>
+  <h6 align="left"> Focus on building systems that use AI techniques like machine learning, NLP, and computer vision to automate tasks. </h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
