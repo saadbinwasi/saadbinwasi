@@ -27,7 +27,7 @@
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
         <summary>🤖
-          <a href="https://github.com/issaniang5/Application-Livraison-De-Nourriture" target="_blank">
+          <a href="https://github.com/issaniang5/Application-Livraison-De-Nourriture](https://github.com/saadbinwasi/the-bot-jenny" target="_blank">
             <strong>The Bot Jenny</strong>
           </a>
         </summary>
