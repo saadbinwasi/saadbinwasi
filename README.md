@@ -18,7 +18,7 @@
 <br>
 
 
- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadbinwasi&amp;theme=gruvbox&amp;hide_border=true">
+ <img align='center' width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadbinwasi&amp;theme=gruvbox&amp;hide_border=true">
 
  <br>
 
