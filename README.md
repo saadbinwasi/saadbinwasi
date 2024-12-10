@@ -6,7 +6,7 @@
 
 <p align='center' >
 
-<h4> About Me 👨‍💻 </h4>
+ <h4 align="center">Hi 👋, </h4>
 
 -  3+ years of experience crafting sleek front-ends, dynamic MERN apps, and mobile-friendly designs with a focus on React.js and modern frameworks like Tailwind & MaterialUI.
 
