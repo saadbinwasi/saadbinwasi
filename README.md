@@ -39,6 +39,8 @@
   </div>
 </div>
 
+<img height="20"/>
+
 <div align="left">
   <h4>💻 <strong>Full Stack Projects</strong></h4>
   <h6 align="left"> These projects encompass both front-end and back-end development to create complete and functional web applications. </h6>
