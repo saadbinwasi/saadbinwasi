@@ -15,10 +15,13 @@
 - 🌍 Love collaborating globally and delivering top-notch results. Let’s build something amazing together!
 
 </p>
+
 <br>
 
-
- <img align='center' width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadbinwasi&amp;theme=gruvbox&amp;hide_border=true">
+<div align='center'>
+ <img  width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadbinwasi&amp;theme=gruvbox&amp;hide_border=true">
+  
+</div>
 
  <br>
 
