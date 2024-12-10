@@ -16,15 +16,6 @@
 
 </p>
 
-<br>
-
-<div align='center'>
- <img  width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=saadbinwasi&amp;theme=gruvbox&amp;hide_border=true">
-  
-</div>
-
- <br>
-
 <hr/>
 
 <h3 align="center">🚀 Projects</h3>
