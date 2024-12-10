@@ -6,6 +6,8 @@
 
 <h3 align='center'> Web Developer | MERN Stack Enthusiast | Future Tech Builder </h3>
 
+<p width='12'></p>
+
 
 - 👨‍💻 3+ years of experience crafting sleek front-ends, dynamic MERN apps, and mobile-friendly designs with a focus on React.js and modern frameworks like Tailwind & MaterialUI.
 
