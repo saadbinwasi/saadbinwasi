@@ -28,7 +28,7 @@
       <details>
         <summary>🍕 
           <a href="https://github.com/issaniang5/Application-Livraison-De-Nourriture" target="_blank">
-            <strong>Food Delivery Application</strong>
+            <strong>Quiz-app</strong>
           </a>
         </summary>
         <samp>
