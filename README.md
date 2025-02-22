@@ -35,6 +35,16 @@
          The Bot Jenny is a terminal-based AI assistant that responds to voice commands. It can perform tasks like opening websites, launching apps, or searching YouTube directly from the terminal.
         </samp>
       </details>
+       <details>
+        <summary>🤖
+          <a href="https://github.com/saadbinwasi/rag-url" target="_blank">
+            <strong>RAG FROM URL</strong>
+          </a>
+        </summary>
+        <samp>
+        a large language model (LLM) is used to answer questions based on the retrieved data.
+        </samp>
+      </details>
     </ul>
   </div>
 </div>
