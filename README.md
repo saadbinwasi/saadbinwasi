@@ -19,7 +19,7 @@
 
 <hr/>
 
-<h3 align="center">🚀 Projects</h3>
+<h3 align="left">🚀 Projects</h3>
 
 <div align="left">
   <h4>💻 <strong>Artificial intelligence Projects</strong></h4>
