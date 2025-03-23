@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img width='1000' height="250" src="https://github.com/saadbinwasi/Rag-Chatbot/blob/main/Cream%20Minimal%20Aesthetic%20Creative%20Photography%20Personal%20LinkedIn%20Article%20Cover%20Image%20(1).png" />
+  <img width='1000' height="180" src="https://github.com/saadbinwasi/Rag-Chatbot/blob/main/Cream%20Minimal%20Aesthetic%20Creative%20Photography%20Personal%20LinkedIn%20Article%20Cover%20Image%20(1).png" />
 </div>
 
 <p align='center' >
