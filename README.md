@@ -129,3 +129,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="40" alt="CSS3 logo" />
 
 </div>
+
+
+
+![Royal Purple Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=7851A9&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20Happy%20coding!&fontColor=808080)
