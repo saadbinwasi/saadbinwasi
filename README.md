@@ -1,4 +1,4 @@
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=843FF7&width=435&lines=Hi%2C+Saad+Bin+Wasi+Here+%F0%9F%96%90%F0%9F%8F%BC;Welcome+to+My+github" alt="Typing SVG" /></a>
 
 <div align="center">
   <img width='600' height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl5Z2xiZmUycm9sYXYwMHg5NXdvMGRtYXI2ZWw0NHF1NzB3aTVmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" />
