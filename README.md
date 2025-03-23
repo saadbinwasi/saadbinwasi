@@ -28,8 +28,8 @@
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
         <summary>🤖
-          <a href="https://github.com/saadbinwasi/the-bot-jenny" target="_blank">
-            <strong>The Bot Jenny</strong>
+          <a href="https://github.com/saadbinwasi/-K-Means-Clustering" target="_blank">
+            <strong>In This Project, we dive into customer segmentation using K-Means Clustering, a popular unsupervised machine learning algorithm. This technique helps businesses understand their customers better by grouping them based on spending behavior, annual income, and other key factors.</strong>
           </a>
         </summary>
         <samp>
