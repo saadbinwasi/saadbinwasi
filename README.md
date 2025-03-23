@@ -130,5 +130,5 @@
 
 </div>
 
-![Royal Purple Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=7851A9&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20Happy%20coding!&fontSize=14&fontColor=808080&fontAlignY=80)
+![Royal Purple Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=7851A9&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20Happy%20coding!&fontSize=14&fontColor=808080&fontAlignY=100)
 
