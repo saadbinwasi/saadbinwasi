@@ -105,7 +105,7 @@
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
-<img height="3"/>
+<img height="2"/>
 
 <div align="left">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow logo" />
@@ -131,6 +131,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="40" alt="CSS3 logo" />
 
 </div>
+
+<img height="1"/>
 
 ![Royal Purple Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=7851A9&height=120&section=footer&text=Thanks%20for%20stopping%20by!%20Happy%20coding!&fontSize=14&fontColor=808080&fontAlignY=87)
 
