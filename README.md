@@ -105,9 +105,9 @@
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
-<img height="2"/>
+<img height="1"/>
 
-<div align="left">
+<div align="center">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow logo" />
   <img width="10" />
   <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" height="40" alt="Keras logo" />
