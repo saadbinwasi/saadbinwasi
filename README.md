@@ -22,14 +22,14 @@
 <h3 align="center">🚀 Projects</h3>
 
 <div align="left">
-  <h4>💻 <strong>Mall Customer Segmentation using K-Means Clustering</strong></h4>
+  <h4>💻 <strong>Artificial intelligence Projects</strong></h4>
   <h6 align="left"> Focus on building systems that use AI techniques like machine learning, NLP, and computer vision to automate tasks. </h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
         <summary>🤖
           <a href="https://github.com/saadbinwasi/-K-Means-Clustering" target="_blank">
-            <strong></strong>
+            <strong>Mall Customer Segmentation using K-Means Clustering</strong>
           </a>
         </summary>
         <samp>
