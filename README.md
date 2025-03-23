@@ -1,4 +1,4 @@
-![Wave Banner](https://camo.githubusercontent.com/e09012c164942eb846524af8cbea063e07297c1d0f9c5846dd3f2da99ef08f60/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572)
+![Royal Purple Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=7851A9&height=120&section=header&text=Welcome%20to%20My%20Project!)
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7851A9&width=435&lines=Hi%2C+i'm+Saad+Bin+Wasi!+;Welcome+to+My+Coding+Journey.;Exploring+the+Tech+Universe.;Building+Tomorrow%2C+Today." alt="Typing SVG" /></a>
