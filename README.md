@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B76E79&width=435&lines=Hi%2C+i'm+Saad+Bin+Wasi!+;Welcome+to+My+Coding+Journey.;Exploring+the+Tech+Universe.;Building+Tomorrow%2C+Today." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7851A9&width=435&lines=Hi%2C+i'm+Saad+Bin+Wasi!+;Welcome+to+My+Coding+Journey.;Exploring+the+Tech+Universe.;Building+Tomorrow%2C+Today." alt="Typing SVG" /></a>
 
 <div align="center">
   <img width='600' height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl5Z2xiZmUycm9sYXYwMHg5NXdvMGRtYXI2ZWw0NHF1NzB3aTVmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" />
