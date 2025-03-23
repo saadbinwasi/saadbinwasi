@@ -130,6 +130,16 @@
 
 </div>
 
-
+<div align="center">
+  <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
+    <!-- Purple Wave Banner -->
+    <image href="https://capsule-render.vercel.app/api?type=waving&color=7851A9&height=120&section=footer" width="100%" height="120" y="0" />
+    
+    <!-- Grey Text at Bottom -->
+    <text x="50%" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="grey">
+      Thanks for stopping by! Happy coding!
+    </text>
+  </svg>
+</div>
 
 ![Royal Purple Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=7851A9&height=120&section=footer)
