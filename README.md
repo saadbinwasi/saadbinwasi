@@ -1,4 +1,4 @@
-![Royal Purple Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=7851A9&height=120&section=header&text=Welcome%20to%20My%20Project!)
+![Royal Purple Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=7851A9&height=120&section=header)
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7851A9&width=435&lines=Hi%2C+i'm+Saad+Bin+Wasi!+;Welcome+to+My+Coding+Journey.;Exploring+the+Tech+Universe.;Building+Tomorrow%2C+Today." alt="Typing SVG" /></a>
