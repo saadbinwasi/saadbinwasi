@@ -105,7 +105,7 @@
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
-#####
+<hr />
 
 <div align="left">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow logo" />
