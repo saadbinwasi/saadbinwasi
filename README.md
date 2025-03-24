@@ -22,7 +22,7 @@
 <h3 align="left">🚀 Projects</h3>
 
 <div align="left">
-  <h4>💻 <strong>Artificial intelligence Projects</strong></h4>
+  <h4><strong>Artificial intelligence Projects</strong></h4>
   <h6 align="left"> Focus on building systems that use AI techniques like machine learning, NLP, and computer vision to automate tasks. </h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
@@ -53,7 +53,7 @@
 <img height="5"/>
 
 <div align="left">
-  <h4>💻 <strong>Full Stack Projects</strong></h4>
+  <h4><strong>Full Stack Projects</strong></h4>
   <h6 align="left"> These projects encompass both front-end and back-end development to create complete and functional web applications. </h6>
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
