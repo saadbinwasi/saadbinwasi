@@ -61,7 +61,6 @@
 </div>
 
 
-Movie Recommender System Project
 
 <img height="5"/>
 
