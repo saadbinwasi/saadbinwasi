@@ -46,9 +46,22 @@
         a large language model (LLM) is used to answer questions based on the retrieved data.
         </samp>
       </details>
+         <details>
+        <summary>🤖
+          <a href="https://github.com/saadbinwasi/rag-url" target="_blank">
+            <strong>Movie Recommender System Project</strong>
+          </a>
+        </summary>
+        <samp>
+        a personalized movie recommendation system based on user preferences.
+        </samp>
+      </details>
     </ul>
   </div>
 </div>
+
+
+Movie Recommender System Project
 
 <img height="5"/>
 
