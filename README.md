@@ -27,7 +27,7 @@
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
-        <summary>🤖
+        <summary>
           <a href="https://github.com/saadbinwasi/-K-Means-Clustering" target="_blank">
             <strong>Mall Customer Segmentation using K-Means Clustering</strong>
           </a>
@@ -37,7 +37,7 @@
         </samp>
       </details>
        <details>
-        <summary>🤖
+        <summary>
           <a href="https://github.com/saadbinwasi/rag-url" target="_blank">
             <strong>RAG FROM URL</strong>
           </a>
@@ -47,7 +47,7 @@
         </samp>
       </details>
          <details>
-        <summary>🤖
+        <summary>
           <a href="https://github.com/saadbinwasi/rag-url" target="_blank">
             <strong>Movie Recommender System Project</strong>
           </a>
@@ -70,7 +70,7 @@
   <div align="left">
     <ul style="list-style-type: none; padding: 0; font-size: 1.1em;">
       <details>
-        <summary>🌍
+        <summary>
           <a href="https://github.com/saadbinwasi/TravelApp" target="_blank">
             <strong>Travel App</strong>
           </a>
@@ -80,7 +80,7 @@
         </samp>
       </details>
       <details>
-        <summary> 📍
+        <summary> 
           <a href="https://github.com/saadbinwasi/location-picker-app-" target="_blank">
             <strong>location-picker-app</strong>
           </a>
@@ -90,7 +90,7 @@
         </samp>
       </details>
       <details>
-        <summary>💸
+        <summary>
           <a href="https://github.com/saadbinwasi/investment-calculator-" target="_blank">
             <strong>investment-calculator</strong>
           </a>
@@ -100,7 +100,7 @@
         </samp>
       </details>
       <details>
-        <summary>🏋️‍♂️
+        <summary>
           <a href="https://github.com/saadbinwasi/mern-workout-app" target="_blank">
             <strong>mern-workout-app</strong>
           </a>
