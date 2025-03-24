@@ -53,7 +53,7 @@
           </a>
         </summary>
         <samp>
-        a personalized movie recommendation system based on user preferences.
+        A content-based movie recommender system using **Bag of Words (BoW)** to suggest similar movies based on user preferences. Built with Python, Scikit-Learn, and Streamlit.
         </samp>
       </details>
     </ul>
