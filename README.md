@@ -48,7 +48,7 @@
       </details>
          <details>
         <summary>
-          <a href="https://github.com/saadbinwasi/rag-url" target="_blank">
+          <a href="https://github.com/saadbinwasi/movie-recommadation-model" target="_blank">
             <strong>Movie Recommender System Project</strong>
           </a>
         </summary>
