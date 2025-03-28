@@ -82,7 +82,7 @@
       <details>
         <summary> 
           <a href="https://github.com/saadbinwasi/Image-Generation-AI-Mern" target="_blank">
-            <strong>Image-Generation-AI-Mern</strong>
+            <strong>GenGram - Image-Generation-AI-Mern</strong>
           </a>
         </summary>
         <samp>
