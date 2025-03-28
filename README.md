@@ -81,12 +81,12 @@
       </details>
       <details>
         <summary> 
-          <a href="https://github.com/saadbinwasi/location-picker-app-" target="_blank">
-            <strong>location-picker-app</strong>
+          <a href="https://github.com/saadbinwasi/Image-Generation-AI-Mern" target="_blank">
+            <strong>Image-Generation-AI-Mern</strong>
           </a>
         </summary>
         <samp>
-          A web app that allows users to easily select and save their preferred locations on a map for various purposes.
+          A full-stack platform where users can generate AI images using Stable Diffusion and share them in a community feed. Built with the MERN stack. Also User can Download the Pictures.
         </samp>
       </details>
       <details>
